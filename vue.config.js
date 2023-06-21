@@ -1,6 +1,7 @@
 const path = require('path')
 
 module.exports = {
+  publicPath: '/weter_test_task_layout/',
   devServer: {
     allowedHosts: "all",
   },
